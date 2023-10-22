@@ -4,3 +4,5 @@
 <img src="https://raw.githubusercontent.com/Zenin0/Glitter_Scripts/main/main/img/DISCLAIMER.png?token=GHSAT0AAAAAACJCV62VALXFXVMURW4QNGGOZJVRPVQ" width="600" />
 
 </div>
+
+- [Windows](https://github.com/Zenin0/Glitter_Scripts/tree/main/Windows)
