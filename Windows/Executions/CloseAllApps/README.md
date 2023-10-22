@@ -2,8 +2,6 @@
 
 A script used to close all target open applications.
 
-🟢 **Plug-And-Play** 🟢
-
 **YouTube Video**: https://youtube.com/shorts/fbXgI-4ABhU
 
 **Category**: Execution
