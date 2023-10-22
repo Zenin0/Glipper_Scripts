@@ -7,7 +7,8 @@ A script used to stole target WLAN Passwords.
 
 <div align=center>
 
-<img src="https://github.com/aleff-github/my-flipper-shits/blob/main/img/logo-repository-2_0.gif" width="600" /><br><img src="https://github.com/aleff-github/my-flipper-shits/blob/main/img/DISCLAIMER.png" width="600" />
+<img src="https://github.com/aleff-github/my-flipper-shits/blob/main/img/logo-repository-2_0.gif" width="600" /><br>
+<img src="https://raw.githubusercontent.com/Zenin0/Glitter_Scripts/main/main/img/logo-repository-2_0.gif?token=GHSAT0AAAAAACJCV62VNWNDWX2QBSTQEA4UZJVRNCA" width="600" />
 
 </div>
 
@@ -30,7 +31,7 @@ Then it cleans up traces of what you have done after.
 
 * Plug in your device
 * Invoke 2 netsh commands
-* Invoke-WebRequest will be entered in the Run Box to send the content
+* Invoke-WebRequest will be entered in the Run Box to send the content to Discord
 
 All
 ```powershell
