@@ -1,7 +1,7 @@
 # Glitter Scripts
 
 - [Glitter Scripts](#glitter-scripts)
-    - [Disclaimer](#disclaimer)
+  - [Disclaimer](#disclaimer)
   - [Payloads Explanation](#payloads-explanation)
   - [Credits](#credits)
 
