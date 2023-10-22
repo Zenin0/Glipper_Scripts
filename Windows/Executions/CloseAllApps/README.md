@@ -6,13 +6,12 @@ A script used to close all target open applications.
 
 **YouTube Video**: https://youtube.com/shorts/fbXgI-4ABhU
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faleff-github%2Fmy-flipper-shits&count_bg=%233C3C3C&title_bg=%233C3C3C&icon=linux.svg&icon_color=%23FFFFFF&title=views&edge_flat=false)](https://github.com/aleff-github/my-flipper-shits)
-
 **Category**: Execution
 
 <div align=center>
 
-<img src="https://github.com/aleff-github/my-flipper-shits/blob/main/img/logo-repository-2_0.gif" width="600" /><br><img src="https://github.com/aleff-github/my-flipper-shits/blob/main/img/DISCLAIMER.png" width="600" />
+<img src="https://raw.githubusercontent.com/Zenin0/Glitter_Scripts/main/main/img/logo-repository-2_0.gif?token=GHSAT0AAAAAACJCV62UACYVZAHZREEX64GEZJVSP5Q" width="600" /><br>
+<img src="https://raw.githubusercontent.com/Zenin0/Glitter_Scripts/main/main/img/DISCLAIMER.png?token=GHSAT0AAAAAACJCV62VALXFXVMURW4QNGGOZJVRPVQ" width="600" />
 
 </div>
 
@@ -20,7 +19,7 @@ A script used to close all target open applications.
 
 A script used to close all target open applications.
 
-Opens PowerShell hidden, download a Python script, execute it, remove Python script downloaded, delete powershell history.
+Opens PowerShell hidden, download a Python script, execute it, remove Python script downloaded, removes all taraces left behind.
 
 ## Getting Started
 
@@ -33,9 +32,6 @@ Opens PowerShell hidden, download a Python script, execute it, remove Python scr
 
 * Plug in your device
 
-### Settings
-
-- No settings - Plug-And-Play
 
 ## Credits
 
@@ -48,12 +44,6 @@ Opens PowerShell hidden, download a Python script, execute it, remove Python scr
         <img src=https://github.com/aleff-github/aleff-github/blob/main/img/github.png?raw=true width="48" height="48" />
       </a>
       <br>Github
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.linkedin.com/in/alessandro-greco-aka-aleff/">
-        <img src=https://github.com/aleff-github/aleff-github/blob/main/img/linkedin.png?raw=true width="48" height="48" />
-      </a>
-      <br>Linkedin
     </td>
   </tr>
 </table>

