@@ -1,3 +1,13 @@
+REM ###########################################################
+REM #                                                         |
+REM # Title        : Windows Close All Apps      |
+REM # Author       : Zenin                                    |
+REM # Version      : 1.0                                      |
+REM # Category     : Credentials, Exfiltrate                    |
+REM # Target       : Windows                                    |
+REM #                                                         |
+REM ###########################################################
+
 DELAY 2000
 GUI r
 DELAY 250

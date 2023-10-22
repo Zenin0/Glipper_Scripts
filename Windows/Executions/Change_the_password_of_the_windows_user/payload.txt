@@ -1,3 +1,13 @@
+REM ###########################################################
+REM #                                                         |
+REM # Title        : Windows Change User Password             |
+REM # Author       : Zenin                                    |
+REM # Version      : 1.0                                      |
+REM # Category     : Credentials, Exfiltrate                    |
+REM # Target       : Windows                                    |
+REM #                                                         |
+REM ###########################################################
+
 DEFINE NEW_PASSWORD uV6Nwn%K8WW$9jvd&M9TCSWOp1z#G$ESJFGOJtv%%&vk6$P2G^
 
 DELAY 1000

