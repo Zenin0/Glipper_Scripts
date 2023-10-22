@@ -3,8 +3,9 @@
 - [Glitter Scripts](#glitter-scripts)
   - [Disclaimer](#disclaimer)
   - [Payloads Explanation](#payloads-explanation)
-  - [Credits](#credits)
   - [Files](#files)
+  - [Credits](#credits)
+
 
 
 ### Disclaimer
