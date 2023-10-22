@@ -2,6 +2,7 @@
 
 - [Glitter Scripts](#glitter-scripts)
     - [Disclaimer](#disclaimer)
+  - [Payloads Explanation](#payloads-explanation)
   - [Credits](#credits)
 
 
@@ -19,6 +20,17 @@
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Credentials|[WiFi Windows Passwords](https://github.com/Zenin0/Glitter_Scripts/tree/main/Windows/Credentials/WWifiPasswords)
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Close All Apps](https://github.com/Zenin0/Glitter_Scripts/tree/main/Windows/Executions/CloseAllApps)
 
+
+
+## Payloads Explanation
+
+```ruby
+DELAY - Delay of X ms
+REM - Comments
+STRINGLN - Written
+KEYS (ENTER, CTRL-ALT, qwerty..., )
+GUI Win/Command, Special Key for OS
+```
 
 
 ## Credits

