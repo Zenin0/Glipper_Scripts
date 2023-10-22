@@ -2,6 +2,7 @@
 
 - [Glitter Scripts](#glitter-scripts)
     - [Disclaimer](#disclaimer)
+  - [Credits](#credits)
 
 
 ### Disclaimer
@@ -15,7 +16,29 @@
 
 |System|Category|Name|
 |--|--|--|
-|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Credentials|[WiFi Windows Passwords](https://github.com/Zenin0/Glitter_Scripts/tree/main/Windows/W-Wifi-Passwords)
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Credentials|[WiFi Windows Passwords](https://github.com/Zenin0/Glitter_Scripts/tree/main/Windows/Credentials/WWifiPasswords)
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Close All Apps](https://github.com/Zenin0/Glitter_Scripts/tree/main/Windows/Executions/CloseAllApps)
 
 
-- [Windows](https://github.com/Zenin0/Glitter_Scripts/tree/main/Windows)
+
+## Credits
+
+<h2 align="center"> Aleff :octocat: </h2>
+<div align=center>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://github.com/aleff-github">
+        <img src=https://raw.githubusercontent.com/aleff-github/aleff-github/main/img/github.png width="48" height="48" />
+      </a>
+      <br>Github
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.linkedin.com/in/alessandro-greco-aka-aleff/">
+        <img src=https://raw.githubusercontent.com/aleff-github/aleff-github/main/img/linkedin.png width="48" height="48" />
+      </a>
+      <br>Linkedin
+    </td>
+  </tr>
+</table>
+</div>
