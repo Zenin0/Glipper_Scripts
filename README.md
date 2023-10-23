@@ -63,7 +63,7 @@ Some script don't work very well, so making them by myself
 
 [![Foo](https://raw.githubusercontent.com/aleff-github/my-flipper-shits/main/img/logo-repository-2_0.gif)](https://github.com/aleff-github/my-flipper-shits)
 
-- ### [Jackob Badb USB Payloads](https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB)
+- ### [Jackob Bad USB Payloads](https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB)
 
 [![Foo](https://raw.githubusercontent.com/I-Am-Jakoby/I-Am-Jakoby/main/img/hak5-banner.png)](https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB)
 
