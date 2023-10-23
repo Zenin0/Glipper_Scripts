@@ -63,12 +63,8 @@ Some script don't work very well, so making them by myself
 [![Foo](https://raw.githubusercontent.com/aleff-github/my-flipper-shits/main/img/logo-repository-2_0.gif)](https://github.com/aleff-github/my-flipper-shits)
 
 
-## License
-[![License](https://img.shields.io/badge/License-Zenin's-red.svg)]([https://github.com/Zenin0/Glitter_Scripts/blob/main/LICENSE])
-
-
 ## Zenin Software License
 
-[![Zenin Software License](https://img.shields.io/badge/license-Zenin%20Software%20License-blue.svg)](https://github.com/Zenin0/Glitter_Scripts/blob/main/LICENSE)
+[![Zenin Software License](https://img.shields.io/badge/license-Zenin%20Software%20License-red.svg)](https://github.com/Zenin0/Glitter_Scripts/blob/main/LICENSE)
 
 
