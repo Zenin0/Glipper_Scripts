@@ -1,9 +1,9 @@
 # WLAN Windows Password - BadUSB ✅
 
-A script used to stole target WLAN Passwords.
+A script used to stole target browser data & history.
 
 
-**Category**: WLAN, Credentials
+**Category**: Browser, Credentials
 
 <div align=center>
 
