@@ -48,5 +48,5 @@ GUI Win/Command, Special Key for OS
 
 - Flipper Bad USB Payloads
 
-<a href="https://github.com/aleff-github/my-flipper-shits/tree/main">
+<a href="https://github.com/aleff-github/my-flipper-shits">
 <img src="https://raw.githubusercontent.com/aleff-github/my-flipper-shits/main/img/logo-repository-2_0.gif" width="600" /><br></a>
