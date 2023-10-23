@@ -44,8 +44,10 @@ GUI Win/Command, Special Key for OS
 
 - [Unleashed Firmware](https://github.com/DarkFlippers/unleashed-firmware)
 
-<img src="https://user-images.githubusercontent.com/10697207/186202043-26947e28-b1cc-459a-8f20-ffcc7fc0c71c.png" width="300" /><br></a>
+[![Foo](https://user-images.githubusercontent.com/10697207/186202043-26947e28-b1cc-459a-8f20-ffcc7fc0c71c.png)](https://github.com/DarkFlippers/unleashed-firmware)
 
 - [Flipper Bad USB Payloads](https://github.com/aleff-github/my-flipper-shits)
 
-<img src="https://raw.githubusercontent.com/aleff-github/my-flipper-shits/main/img/logo-repository-2_0.gif" width="300" /><br>
+
+[![Foo](https://raw.githubusercontent.com/aleff-github/my-flipper-shits/main/img/logo-repository-2_0.gif)](https://github.com/aleff-github/my-flipper-shits)
+
