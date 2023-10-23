@@ -1,6 +1,6 @@
 # Glipper Scripts
 
-- [glipper Scripts](#glipper-scripts)
+- [Glipper Scripts](#glipper-scripts)
     - [Disclaimer](#disclaimer)
   - [Payloads](#payloads)
   - [Payloads Explanation](#payloads-explanation)
