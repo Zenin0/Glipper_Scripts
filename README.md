@@ -49,6 +49,8 @@ GUI - Win/Command, Special Key for OS
 ## Extras
 
 - ### [Unleashed Firmware](https://github.com/DarkFlippers/unleashed-firmware)
+This software is for experimental purposes only and is not meant for any illegal activity/purposes.
+Also, this software is made without any support from Flipper Devices and is in no way related to the official devs.
 
 [![Foo](https://user-images.githubusercontent.com/10697207/186202043-26947e28-b1cc-459a-8f20-ffcc7fc0c71c.png)](https://github.com/DarkFlippers/unleashed-firmware)
 
