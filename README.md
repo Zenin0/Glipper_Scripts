@@ -6,6 +6,7 @@
   - [Payloads Explanation](#payloads-explanation)
   - [Extras](#extras)
   - [License](#license)
+- [Glitter Scripts Software License](#glitter-scripts-software-license)
 
 
 
@@ -66,33 +67,37 @@ Some script don't work very well, so making them by myself
 [![License](https://img.shields.io/badge/License-Zenin's-red.svg)]([https://github.com/Zenin0/Glitter_Scripts/blob/main/LICENSE])
 
 
-```
-Zenin's License
+# Glitter Scripts Software License
 
-Glitter Scripts Software License
+**Version 1.0**
 
-Version 1.0
-
-Definitions:
+**Definitions:**
 1. "Software" refers to the computer software program and any accompanying materials, including documentation and associated media, provided under this license.
 2. "User" refers to any individual or entity that obtains a copy of the Software and utilizes it.
 
-Terms and Conditions:
-1. Non-Commercial Use: The Software is granted for use solely in non-commercial contexts. Any form of commercial use, including but not limited to the integration of the Software into for-profit products or services, is strictly prohibited.
+**Terms and Conditions:**
+1. **Non-Commercial Use:** The Software is granted for use solely in non-commercial contexts. Any form of commercial use, including but not limited to the integration of the Software into for-profit products or services, is strictly prohibited.
 
-2. Limitations:
-   a. Liability: In no event shall the author or contributors of the Software be held liable for any direct, indirect, special, incidental, or consequential damages, including, but not limited to, loss of data, profits, or business interruption, resulting from the use of the Software, whether in a legal or illegal context.
-   b. Warranty: The Software is provided "as is," without any express or implied warranties. The author and contributors expressly disclaim all warranties, including, but not limited to, implied warranties of merchantability and fitness for a particular purpose.
-   c. Trademark Use: Users are not authorized to use any trademarks or service marks associated with the Software for any purpose, including but not limited to branding or promotional activities.
-   d. Patent Use: The author and contributors of the Software do not grant any patent licenses or patent-related rights for the use, modification, or distribution of the Software. Users must address any patent concerns separately and independently.
+**Limitations:**
+   - **Liability:** In no event shall the author or contributors of the Software be held liable for any direct, indirect, special, incidental, or consequential damages, including, but not limited to, loss of data, profits, or business interruption, resulting from the use of the Software, whether in a legal or illegal context.
+   - **Warranty:** The Software is provided "as is," without any express or implied warranties. The author and contributors expressly disclaim all warranties, including, but not limited to, implied warranties of merchantability and fitness for a particular purpose.
+   - **Trademark Use:** Users are not authorized to use any trademarks or service marks associated with the Software for any purpose, including but not limited to branding or promotional activities.
+   - **Patent Use:** The author and contributors of the Software do not grant any patent licenses or patent-related rights for the use, modification, or distribution of the Software. Users must address any patent concerns separately and independently.
+   - **Private Use:** The Software may be used for private, personal use, but it is not transferable, sublicensable, or usable in any way that allows third parties to access or use the Software.
 
-3. Restrictions:
-   a. Distribution: The distribution of the Software to third parties is expressly forbidden. Users are required to obtain the Software directly from the author or through an authorized source. This restriction ensures the integrity of the distribution process and compliance with the terms of this license.
+**Restrictions:**
+   - **Distribution:** The distribution of the Software to third parties is expressly forbidden. Users are required to obtain the Software directly from the author or through an authorized source. This restriction ensures the integrity of the distribution process and compliance with the terms of this license.
 
-4. Conditions:
-   a. Malicious Use: Users are bound to employ the Software in an ethical and lawful manner. Any actions involving malicious, unlawful, or inappropriate use of the Software are strictly prohibited. This includes but is not limited to any activities that violate local, national, or international laws.
-   b. Disclaimer of Liability: The author and contributors of the Software absolve themselves from any responsibility for the consequences arising from the use of the Software. Users assume full responsibility for their use of the Software, and this agreement limits the author's and contributors' liability to the maximum extent permitted by applicable law.
-   c. Acceptance: The use of the Software signifies the user's full acceptance of the terms and conditions outlined in this license. If the user does not agree with any provision of this license, they must refrain from using or distributing the Software.
+**Conditions:**
+   - **Malicious Use:** Users are bound to employ the Software in an ethical and lawful manner. Any actions involving malicious, unlawful, or inappropriate use of the Software are strictly prohibited. This includes but is not limited to any activities that violate local, national, or international laws.
+   - **Disclaimer of Liability:** The author and contributors of the Software absolve themselves from any responsibility for the consequences arising from the use of the Software. Users assume full responsibility for their use of the Software, and this agreement limits the author's and contributors' liability to the maximum extent permitted by applicable law.
+   - **Acceptance:** The use of the Software signifies the user's full acceptance of the terms and conditions outlined in this license. If the user does not agree with any provision of this license, they must refrain from using or distributing the Software.
 
-This custom license has been created with the intent of restricting commercial use, preventing distribution, imposing limitations on liability and warranties, addressing trademark and patent use, prohibiting malicious use of the Software, and including a disclaimer of liability. It is important to emphasize that this license has not been reviewed by a legal professional and does not constitute legal advice. For the use of custom licenses, it is highly recommended to seek legal counsel from an attorney specialized in intellectual property or software licensing to ensure that it aligns with your specific requirements and holds legal validity.
-```
+**Additional Restrictions:**
+In addition to the restrictions listed above, the author of the Glitter Scripts Software License may also want to consider adding the following restrictions:
+   - **Reverse Engineering:** Prohibiting users from reverse engineering, decompiling, or disassembling the Software.
+   - **Modification:** Prohibiting users from modifying or creating derivative works of the Software.
+   - **Embedding:** Prohibiting users from embedding the Software into other software applications.
+   - **Technical Support:** Disclaiming any obligation to provide technical support for the Software.
+
+**Note:** This license has not been reviewed by a legal professional and does not constitute legal advice. For the use of custom licenses, it is highly recommended to seek legal counsel from an attorney specialized in intellectual property or software licensing to ensure that it aligns with your specific requirements and holds legal validity.
