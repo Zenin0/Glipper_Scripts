@@ -1,4 +1,4 @@
-# WLAN Windows Password - BadUSB ✅
+# Browser Data - BadUSB ✅
 
 A script used to stole target browser data & history.
 
