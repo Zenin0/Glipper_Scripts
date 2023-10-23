@@ -33,10 +33,16 @@
 ## Payloads Explanation
 
 ```ruby
+REPEAT - Repeat a series of commands or key presses
 DELAY - Delay of X ms
+DELAYRANDOM - Delay of random ms
+DEFAULTDELAY - Defines a default delay that is applied between each instruction
+SLEEP - Delay of X s
+MOUSE - Nouse movements and clicks
+APP - Focus on a specific application
 REM - Comments
 STRINGLN - Written
-KEYS (ENTER, CTRL-ALT, qwerty..., )
+KEYS (ENTER, CTRL-ALT, CTRL-SHIFT, ALT-F4, ALT-ESC...)
 GUI Win/Command, Special Key for OS
 ```
 
