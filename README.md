@@ -75,6 +75,9 @@ Source of Scripts, Ideas...
 Repertory of Bad USB payloads that can addapt to be use with Flipper Zero
 
 [![Foo](https://cdn.shopify.com/s/files/1/0068/2142/files/Hak5_White-1024x576.png)](https://payloadhub.com/blogs/payloads)
+
+- ### [Redd](https://github.com/InfoSecREDD)
+
 ## Zenin Software License
 
 [![Zenin Software License](https://img.shields.io/badge/license-Zenin%20Software%20License-red.svg)](https://github.com/Zenin0/Glipper_Scripts/blob/main/LICENSE)
