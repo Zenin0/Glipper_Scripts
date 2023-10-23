@@ -78,6 +78,9 @@ Repertory of Bad USB payloads that can addapt to be use with Flipper Zero
 
 - ### [Redd](https://github.com/InfoSecREDD)
 
+- ## [UNC0V3R3D](https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb)
+
+
 ## Zenin Software License
 
 [![Zenin Software License](https://img.shields.io/badge/license-Zenin%20Software%20License-red.svg)](https://github.com/Zenin0/Glipper_Scripts/blob/main/LICENSE)
