@@ -1,10 +1,9 @@
 # Glitter Scripts
 
 - [Glitter Scripts](#glitter-scripts)
-  - [Disclaimer](#disclaimer)
-  - [Files](#Files)
+    - [Disclaimer](#disclaimer)
+  - [Files](#files)
   - [Payloads Explanation](#payloads-explanation)
-  - [Credits](#credits)
 
 
 
@@ -39,20 +38,3 @@ STRINGLN - Written
 KEYS (ENTER, CTRL-ALT, qwerty..., )
 GUI Win/Command, Special Key for OS
 ```
-
-
-## Credits
-
-<h2 align="center"> Aleff :octocat: </h2>
-<div align=center>
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://github.com/aleff-github">
-        <img src=https://raw.githubusercontent.com/aleff-github/aleff-github/main/img/github.png width="48" height="48" />
-      </a>
-      <br>Github
-    </td>
-  </tr>
-</table>
-</div>

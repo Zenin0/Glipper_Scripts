@@ -26,23 +26,3 @@ Opens a shell, get the email and the email password by a popup, send the input t
 ### Dependencies
 
 * Internet Connection
-
-### Settings
-
-* Set the Discord webhook
-
-## Credits
-
-<h2 align="center"> Aleff :octocat: </h2>
-<div align=center>
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://github.com/aleff-github">
-        <img src=https://github.com/aleff-github/aleff-github/blob/main/img/github.png?raw=true width="48" height="48" />
-      </a>
-      <br>Github
-    </td>
-  </tr>
-</table>
-</div>
