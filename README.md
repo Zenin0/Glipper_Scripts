@@ -6,7 +6,7 @@
   - [Payloads Explanation](#payloads-explanation)
   - [Extras](#extras)
   - [License](#license)
-- [Zenin Software License](#zenin-software-license)
+  - [Zenin Software License](#zenin-software-license)
 
 
 
@@ -67,7 +67,7 @@ Some script don't work very well, so making them by myself
 [![License](https://img.shields.io/badge/License-Zenin's-red.svg)]([https://github.com/Zenin0/Glitter_Scripts/blob/main/LICENSE])
 
 
-# Zenin Software License
+## Zenin Software License
 
 [![Zenin Software License](https://img.shields.io/badge/license-Zenin%20Software%20License-blue.svg)](https://github.com/Zenin0/Glitter_Scripts/blob/main/LICENSE)
 
