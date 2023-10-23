@@ -63,7 +63,8 @@ Some script don't work very well, so making them by myself
 
 
 ## License
-[![License](https://img.shields.io/badge/License-Zenin's-black.svg)]([https://github.com/Zenin0/Glitter_Scripts/blob/main/LICENSE])
+[![License](https://img.shields.io/badge/License-Zenin's-red.svg)]([https://github.com/Zenin0/Glitter_Scripts/blob/main/LICENSE])
+
 
 ```
 Zenin's License
