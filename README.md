@@ -2,7 +2,7 @@
 
 - [Glitter Scripts](#glitter-scripts)
     - [Disclaimer](#disclaimer)
-  - [Files](#files)
+  - [Payloads](#payloads)
   - [Payloads Explanation](#payloads-explanation)
   - [Extras](#extras)
   - [License](#license)
@@ -20,7 +20,7 @@
 </div>
 
 
-## Files
+## payloads
 
 |System|Category|Name|
 |--|--|--|
