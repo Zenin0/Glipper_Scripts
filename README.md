@@ -42,8 +42,8 @@ MOUSE - Nouse movements and clicks
 APP - Focus on a specific application
 REM - Comments
 STRINGLN - Written
-KEYS (ENTER, CTRL-ALT, CTRL-SHIFT, ALT-F4, ALT-ESC...)
-GUI Win/Command, Special Key for OS
+KEYS - (ENTER, CTRL-ALT, CTRL-SHIFT, ALT-F4, ALT-ESC...)
+GUI - Win/Command, Special Key for OS
 ```
 
 ## Extras
