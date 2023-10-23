@@ -26,15 +26,3 @@ Opens a shell, get the email and the email password by a popup, send the input t
 ### Dependencies
 
 * Internet Connection
-
-
-### Extras
-
-
-- Unleashed Firmware
-
-<a href="https://github.com/DarkFlippers/unleashed-firmware"><img src="https://user-images.githubusercontent.com/10697207/186202043-26947e28-b1cc-459a-8f20-ffcc7fc0c71c.png" width="600" /><br></a>
-
-- Flipper Bad USB Payloads
-
-<a href="https://github.com/aleff-github/my-flipper-shits"><img src="https://raw.githubusercontent.com/aleff-github/my-flipper-shits/main/img/logo-repository-2_0.gif" width="600" /><br></a>
