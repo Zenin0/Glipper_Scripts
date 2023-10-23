@@ -48,6 +48,7 @@ GUI Win/Command, Special Key for OS
 
 - ### [Flipper Bad USB Payloads](https://github.com/aleff-github/my-flipper-shits)
 
+Some script don't work very well, so making them by myself
 
 [![Foo](https://raw.githubusercontent.com/aleff-github/my-flipper-shits/main/img/logo-repository-2_0.gif)](https://github.com/aleff-github/my-flipper-shits)
 
