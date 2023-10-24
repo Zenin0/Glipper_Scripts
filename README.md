@@ -5,7 +5,6 @@
   - [Payloads](#payloads)
   - [Payloads Explanation](#payloads-explanation)
   - [Extras](#extras)
-  - [Zenin Software License](#zenin-software-license)
 
 
 
@@ -108,9 +107,3 @@ GUI - Win/Command, Special Key for OS
     <img src="https://user-images.githubusercontent.com/10697207/186202043-26947e28-b1cc-459a-8f20-ffcc7fc0c71c.png" alt="UNC0V3R3D Image" style="width: 40em;">
   </a>
 </p>
-
-## Zenin Software License
-
-[![Zenin Software License](https://img.shields.io/badge/license-Zenin%20Software%20License-red.svg)](https://github.com/Zenin0/Glipper_Scripts/blob/main/LICENSE)
-
-
