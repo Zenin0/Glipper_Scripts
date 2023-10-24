@@ -18,7 +18,7 @@
 </div>
 
 <details>
-<summary>Disclaimer Raw</summary>
+<summary>Disclaimer EN/ES/GER</summary>
 
 > [!WARNING] 
 > ### English
