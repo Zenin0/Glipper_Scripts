@@ -16,7 +16,7 @@
 > 
 > Use this code exclusively for lawful and ethical purposes, ensuring all actions align with legal regulations. Any employment of this code for illegal, unethical, or malicious activities is strictly prohibited. The author of this code does not support, endorse, or bear any responsibility for actions that breach the law or inflict harm upon others. Please download and employ this code responsibly, adhering to ethical standards and legal mandates. Non-compliance may result in legal consequences.
 >
->These scripts are provided 'as is' and without warranty or liability. The use of these scripts should be done in a controlled environment, with full awareness of the potential risks involved. The author of these scripts disclaims any responsibility for any adverse consequences that may arise from their use. Users are advised to exercise caution and ensure that these scripts are employed only for legitimate and lawful purposes, in strict compliance with applicable laws and regulations. Any unauthorized, illegal, or malicious use of these scripts is strictly prohibited and may result in legal action. By downloading and using these scripts, you acknowledge and agree to these terms and conditions.
+>These scripts are provided 'as is' and without warranty or liability. The use of these scripts should be done in a controlled environment, with full awareness of the potential risks involved. The author of these scripts disclaims any responsibility for any adverse consequences that may arise from their use.
 
 
 <div align=center>
