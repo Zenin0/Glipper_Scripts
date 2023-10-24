@@ -20,7 +20,7 @@
 <details>
 <summary>Disclaimer Raw</summary>
 
-> [!IMPORTANT]
+> [!IMPORTANT] English
 > Use this code exclusively for lawful and ethical purposes, ensuring all actions align with legal regulations. Any employment of this code for illegal, unethical, or malicious activities is strictly prohibited. 
 > The author of this code does not support, endorse, or bear any responsibility for actions that breach the law or inflict harm upon others. Please download and employ this code responsibly, adhering to ethical standards and legal mandates. Non-compliance may result in legal consequences.
 >
@@ -28,7 +28,7 @@
 >
 > By using this code, you acknowledge that you have read this disclaimer and understand its contents.ims any responsibility for any adverse consequences that may arise from their use.
 
-> [!IMPORTANT]
+> [!IMPORTANT] Deutsch
 > Verwenden Sie diesen Code ausschließlich für rechtmäßige und ethische Zwecke und stellen Sie sicher, dass alle Aktionen den gesetzlichen Bestimmungen entsprechen. Jede Verwendung dieses Codes für illegale, unethische oder böswillige Zwecke ist strengstens verboten. Der Autor dieses Codes unterstützt, befürwortet oder übernimmt keine Verantwortung für Handlungen, die gegen das Gesetz verstoßen oder anderen Schaden zufügen. Bitte laden Sie diesen Code herunter und verwenden Sie ihn verantwortungsvoll, unter Einhaltung der ethischen Standards und gesetzlichen Vorschriften. Bei Nichteinhaltung kann es zu rechtlichen Konsequenzen kommen.
 > 
 > Diese Skripte werden "wie besehen" und ohne Gewährleistung oder Haftung bereitgestellt. Die Verwendung dieser Skripte sollte in einer kontrollierten Umgebung erfolgen, in vollem Bewusstsein der potenziellen Risiken. Der Autor dieser Skripte lehnt jede Verantwortung für negative Folgen ab, die aus ihrer Verwendung entstehen können.
