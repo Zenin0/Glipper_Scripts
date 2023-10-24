@@ -84,39 +84,6 @@ GUI - Win/Command, Special Key for OS
   </a>
 </p>
 
-
-- ### [Flipper Bad USB Payloads](https://github.com/aleff-github/my-flipper-shits)
-
-  Some script don't work very well, so making them by myself
-
-<p align="center">
-  <a href="https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb">
-    <img src="https://raw.githubusercontent.com/aleff-github/my-flipper-shits/main/img/logo-repository-2_0.gif" alt="UNC0V3R3D Image" style="width: 40em;">
-  </a>
-</p>
-
-- ## [UNC0V3R3D](https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb)
-
-
-<p align="center">
-  <a href="https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb">
-    <img src="https://github.com/UNC0V3R3D/ressources/raw/main/badusbpicnew.png" alt="UNC0V3R3D Image" style="width: 40em;">
-  </a>
-</p>
-
-- ## [UberGuidoZ](https://github.com/UberGuidoZ/Flipper-IRDB/tree/main)
-  
-  A reposotoru of Flipper-IRDB
-
-<p align="center">
-  <a href="https://github.com/UberGuidoZ/Flipper-IRDB/tree/main">
-    <img src="https://user-images.githubusercontent.com/71837281/262451680-45975652-d443-4fc1-9fdf-e931ffd20c5d.jpg" alt="UberGuidoZ Image" style="width: 40em;">
-  </a>
-</p>
-
-
-
-
 ## Zenin Software License
 
 [![Zenin Software License](https://img.shields.io/badge/license-Zenin%20Software%20License-red.svg)](https://github.com/Zenin0/Glipper_Scripts/blob/main/LICENSE)
