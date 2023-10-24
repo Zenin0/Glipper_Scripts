@@ -3,7 +3,7 @@
 A script used to stole target WLAN Passwords.
 
 
-**Category**: WLAN, Credentials
+**Category**: WLAN, Exfilarate
 
 <div align=center>
 
