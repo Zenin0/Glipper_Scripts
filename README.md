@@ -15,7 +15,7 @@
 <div align=center>
   <img src="/main/img/logo-repository-2_0.gif" width="600" /><br>
   <img src="/main/img/DISCLAIMER.png" width="600" />
-</div>
+</div><br>
 
 <details>
 <summary>Disclaimer EN/ES/GER</summary>
