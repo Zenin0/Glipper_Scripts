@@ -66,20 +66,24 @@ GUI - Win/Command, Special Key for OS
 This software is for experimental purposes only and is not meant for any illegal activity/purposes.
 Also, this software is made without any support from Flipper Devices and is in no way related to the official devs.
 
-[![Unleashed Image](https://user-images.githubusercontent.com/10697207/186202043-26947e28-b1cc-459a-8f20-ffcc7fc0c71c.png)](https://github.com/DarkFlippers/unleashed-firmware)
+<a href="https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb">
+  <img src="https://user-images.githubusercontent.com/10697207/186202043-26947e28-b1cc-459a-8f20-ffcc7fc0c71c.png" alt="UNC0V3R3D Image" style="width: 40em;">
+</a>
 
 - ### [Flipper Bad USB Payloads](https://github.com/aleff-github/my-flipper-shits)
 
 Some script don't work very well, so making them by myself
 
-[![Flipper Payloads Image](https://raw.githubusercontent.com/aleff-github/my-flipper-shits/main/img/logo-repository-2_0.gif)](https://github.com/aleff-github/my-flipper-shits)
+<a href="https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb">
+  <img src="https://raw.githubusercontent.com/aleff-github/my-flipper-shits/main/img/logo-repository-2_0.gif" alt="UNC0V3R3D Image" style="width: 40em;">
+</a>
 
 
 - ## [UNC0V3R3D](https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb)
 
 
 <a href="https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb">
-  <img src="https://github.com/UNC0V3R3D/ressources/raw/main/badusbpicnew.png" alt="UNC0V3R3D Image" style="width: 50em;">
+  <img src="https://github.com/UNC0V3R3D/ressources/raw/main/badusbpicnew.png" alt="UNC0V3R3D Image" style="width: 40em;">
 </a>
 
 
