@@ -13,6 +13,7 @@
 
 > [!IMPORTANT]
 > As a user of this code, it is essential to be fully aware and in compliance with the following terms and conditions. By downloading and utilizing this code, you acknowledge and accept the responsibility to:
+> 
 > Use this code exclusively for lawful and ethical purposes, ensuring all actions align with legal regulations. Any employment of this code for illegal, unethical, or malicious activities is strictly prohibited. The author of this code does not support, endorse, or bear any responsibility for actions that breach the law or inflict harm upon others. Please download and employ this code responsibly, adhering to ethical standards and legal mandates. Non-compliance may result in legal consequences.
 
 
