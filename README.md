@@ -12,8 +12,10 @@
 ### Disclaimer
 
 > [!IMPORTANT]
-> As you download and use this code, you have full knowledge of disclaimer
-> and license, as i do/will not support any illegal activity or malicious purposes
+> You must use this code responsibly and within the boundaries of the law.
+> This code is intended for legitimate and ethical purposes only.
+> Any use of this code for illegal or malicious activities is strictly prohibited.
+> The author of this code will not support, endorse, or be responsible for any unlawful or harmful actions taken with this code. 
 
 
 <div align=center>
