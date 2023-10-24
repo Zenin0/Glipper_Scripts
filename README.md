@@ -11,6 +11,11 @@
 
 ### Disclaimer
 
+> [!IMPORTANT]
+> As you download and use this code, you have full knowledge of disclaimer
+> and license, as i do/will not support any illegal activity or malicious purposes
+
+
 <div align=center>
 
 <img src="/main/img/logo-repository-2_0.gif" width="600" /><br>
