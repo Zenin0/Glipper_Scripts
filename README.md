@@ -66,37 +66,26 @@ GUI - Win/Command, Special Key for OS
 This software is for experimental purposes only and is not meant for any illegal activity/purposes.
 Also, this software is made without any support from Flipper Devices and is in no way related to the official devs.
 
-[![Foo](https://user-images.githubusercontent.com/10697207/186202043-26947e28-b1cc-459a-8f20-ffcc7fc0c71c.png)](https://github.com/DarkFlippers/unleashed-firmware)
+[![Unleashed Image](https://user-images.githubusercontent.com/10697207/186202043-26947e28-b1cc-459a-8f20-ffcc7fc0c71c.png)](https://github.com/DarkFlippers/unleashed-firmware)
 
 - ### [Flipper Bad USB Payloads](https://github.com/aleff-github/my-flipper-shits)
 
 Some script don't work very well, so making them by myself
 
-[![Foo](https://raw.githubusercontent.com/aleff-github/my-flipper-shits/main/img/logo-repository-2_0.gif)](https://github.com/aleff-github/my-flipper-shits)
+[![Flipper Payloads Image](https://raw.githubusercontent.com/aleff-github/my-flipper-shits/main/img/logo-repository-2_0.gif)](https://github.com/aleff-github/my-flipper-shits)
 
-- ### [Jackob Bad USB Payloads](https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB)
-
-Source of Scripts, Ideas...
-
-[![Foo](https://raw.githubusercontent.com/I-Am-Jakoby/I-Am-Jakoby/main/img/hak5-banner.png)](https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB)
-
-- ### [Hak5 Payloads](https://payloadhub.com/blogs/payloads)
-
-Repertory of Bad USB payloads that can addapt to be use with Flipper Zero
-
-[![Foo](https://cdn.shopify.com/s/files/1/0068/2142/files/Hak5_White-1024x576.png)](https://payloadhub.com/blogs/payloads)
-
-- ### [Redd](https://github.com/InfoSecREDD)
-
-[![Foo](https://avatars.githubusercontent.com/u/28995204?v=4)](https://github.com/InfoSecREDD)
 
 - ## [UNC0V3R3D](https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb)
 
-[![Foo](https://avatars.githubusercontent.com/u/115997296?v=4)](https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb)
+[![UNC0V3R3D Image](https://avatars.githubusercontent.com/u/115997296?v=4)](https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb)
 
 
 ## Zenin Software License
 
-[![Zenin Software License](https://img.shields.io/badge/license-Zenin%20Software%20License-red.svg)](https://github.com/Zenin0/Glipper_Scripts/blob/main/LICENSE)
+
+<a href="https://github.com/Zenin0/Glipper_Scripts/blob/main/LICENSE">
+  <img src="https://img.shields.io/badge/license-Zenin%20Software%20License-red.svg" alt="Zenin Software License" style="width: 200px;">
+</a>
+
 
 
