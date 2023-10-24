@@ -11,6 +11,12 @@
 
 ### Disclaimer
 
+
+<div align=center>
+  <img src="/main/img/logo-repository-2_0.gif" width="600" /><br>
+  <img src="/main/img/DISCLAIMER.png" width="600" />
+</div>
+
 > [!IMPORTANT]
 > As a user of this code, it is essential to be fully aware and in compliance with the following terms and conditions. By downloading and utilizing this code, you acknowledge and accept the responsibility to:
 >
@@ -20,14 +26,6 @@
 > These scripts are provided 'as is' and without warranty or liability. The use of these scripts should be done in a controlled environment, with full awareness of the potential risks involved. The author of these scripts disclaims any responsibility for any adverse consequences that may arise from their use.
 >
 > By using this code, you acknowledge that you have read this disclaimer and understand its contents.ims any responsibility for any adverse consequences that may arise from their use.
-
-
-<div align=center>
-
-<img src="/main/img/logo-repository-2_0.gif" width="600" /><br>
-<img src="/main/img/DISCLAIMER.png" width="600" />
-
-</div>
 
 
 ## Payloads
