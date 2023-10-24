@@ -23,6 +23,7 @@
 
 |System|Category|Name|
 |:--:|:--:|:--:|
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|GoodS USB|[Increment Windows Privacy](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/GoodUsb/Privacy_Windows)
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Exfiltrate|[Exfiltrate WiFi Windows Passwords](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Exfilaration/WWifiPasswords)
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Exfiltrate|[Exfiltrate Browser Data](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Exfilaration/BrowserData)
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Exfiltrate|[Exfiltrate Browser Cookies](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Exfilaration/ExportCookiesBrowsers)
