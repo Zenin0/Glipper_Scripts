@@ -77,7 +77,11 @@ Some script don't work very well, so making them by myself
 
 - ## [UNC0V3R3D](https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb)
 
-[![UNC0V3R3D Image](https://github.com/UNC0V3R3D/ressources/raw/main/badusbpicnew.png)](https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb)
+
+<a href="https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb">
+  <img src="https://github.com/UNC0V3R3D/ressources/raw/main/badusbpicnew.png" alt="UNC0V3R3D Image" style="width: 50em;">
+</a>
+
 
 
 ## Zenin Software License
