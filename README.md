@@ -29,9 +29,10 @@
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Exfiltrate|[Exfiltrate Browser Data](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Exfilaration/BrowserData)
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Exfiltrate|[Exfiltrate Browser Cookies](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Exfilaration/ExportCookiesBrowsers)
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Delete 32](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Executions/Delete32)
-|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Exfiltrate|[Delete browsers](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Executions/DeleteBrowsers)
-|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Exfiltrate|[Disable Defender](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Executions/DisableDefender)
-|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Exfiltrate|[Disable Firewall](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Executions/DisableFirewall)
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Delete browsers](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Executions/DeleteBrowsers)
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Disable Defender](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Executions/DisableDefender)
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Disable Firewall](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Executions/DisableFirewall)
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Invisible Download exe](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Executions/Invisible_DownExec)
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Credentials|[Exfiltrate Email And Password By Phising](https://github.com/Zenin0/Glipper_Scripts/tree/main/Linux/Exfiltration/ExfiltrateEmailAndPasswordByPhising)
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Credentials|[Exfiltrate Sudo Password By Phishing](https://github.com/Zenin0/Glipper_Scripts/tree/main/Linux/Exfiltration/ExfiltrateSudoPasswordByPhising)
 
