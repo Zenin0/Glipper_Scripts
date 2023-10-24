@@ -77,15 +77,11 @@ Some script don't work very well, so making them by myself
 
 - ## [UNC0V3R3D](https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb)
 
-[![UNC0V3R3D Image](https://avatars.githubusercontent.com/u/115997296?v=4)](https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb)
+[![UNC0V3R3D Image](https://github.com/UNC0V3R3D/ressources/raw/main/badusbpicnew.png)](https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb)
 
 
 ## Zenin Software License
 
-
-<a href="https://github.com/Zenin0/Glipper_Scripts/blob/main/LICENSE">
-  <img src="https://img.shields.io/badge/license-Zenin%20Software%20License-red.svg" alt="Zenin Software License" style="width: 200px;">
-</a>
-
+[![Zenin Software License](https://img.shields.io/badge/license-Zenin%20Software%20License-red.svg)](https://github.com/Zenin0/Glipper_Scripts/blob/main/LICENSE)
 
 
