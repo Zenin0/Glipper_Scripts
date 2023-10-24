@@ -28,8 +28,7 @@
 > These scripts are provided 'as is' and without warranty or liability. The use of these scripts should be done in a controlled environment, with full awareness of the potential risks involved. The author of these scripts disclaims any responsibility for any adverse consequences that may arise from their use.
 >
 > By using this code, you acknowledge that you have read this disclaimer and understand its contents.ims any responsibility for any adverse consequences that may arise from their use.
-
-> [!IMPORTANT]
+>
 > ### Deutsch
 > Verwenden Sie diesen Code ausschließlich für rechtmäßige und ethische Zwecke und stellen Sie sicher, dass alle Aktionen den gesetzlichen Bestimmungen entsprechen. Jede Verwendung dieses Codes für illegale, unethische oder böswillige Zwecke ist strengstens verboten. Der Autor dieses Codes unterstützt, befürwortet oder übernimmt keine Verantwortung für Handlungen, die gegen das Gesetz verstoßen oder anderen Schaden zufügen. Bitte laden Sie diesen Code herunter und verwenden Sie ihn verantwortungsvoll, unter Einhaltung der ethischen Standards und gesetzlichen Vorschriften. Bei Nichteinhaltung kann es zu rechtlichen Konsequenzen kommen.
 > 
