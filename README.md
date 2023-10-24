@@ -28,14 +28,14 @@
 > These scripts are provided 'as is' and without warranty or liability. The use of these scripts should be done in a controlled environment, with full awareness of the potential risks involved. The author of these scripts disclaims any responsibility for any adverse consequences that may arise from their use.
 >
 > By using this code, you acknowledge that you have read this disclaimer and understand its contents.ims any responsibility for any adverse consequences that may arise from their use.
->
+> [!WARNING] 
 > ### Deutsch
 > Verwenden Sie diesen Code ausschließlich für rechtmäßige und ethische Zwecke und stellen Sie sicher, dass alle Aktionen den gesetzlichen Bestimmungen entsprechen. Jede Verwendung dieses Codes für illegale, unethische oder böswillige Zwecke ist strengstens verboten. Der Autor dieses Codes unterstützt, befürwortet oder übernimmt keine Verantwortung für Handlungen, die gegen das Gesetz verstoßen oder anderen Schaden zufügen. Bitte laden Sie diesen Code herunter und verwenden Sie ihn verantwortungsvoll, unter Einhaltung der ethischen Standards und gesetzlichen Vorschriften. Bei Nichteinhaltung kann es zu rechtlichen Konsequenzen kommen.
 > 
 > Diese Skripte werden "wie besehen" und ohne Gewährleistung oder Haftung bereitgestellt. Die Verwendung dieser Skripte sollte in einer kontrollierten Umgebung erfolgen, in vollem Bewusstsein der potenziellen Risiken. Der Autor dieser Skripte lehnt jede Verantwortung für negative Folgen ab, die aus ihrer Verwendung entstehen können.
 >
 > Durch die Verwendung dieses Codes erkennen Sie an, dass Sie diesen Haftungsausschluss gelesen und verstanden haben.
->
+> [!WARNING] 
 > ### Español
 > Utilice este código exclusivamente para fines lícitos y éticos, asegurando que todas las acciones se ajusten a la normativa legal. Cualquier uso de este código para fines ilegales, poco éticos o maliciosos está estrictamente prohibido. El autor de este código no apoya, respalda ni se hace responsable de las acciones que infrinjan la ley o causen daños a terceros. Descargue y utilice este código de forma responsable, respetando las normas éticas y las obligaciones legales. El incumplimiento puede acarrear consecuencias legales.
 >
