@@ -18,7 +18,7 @@
 </div><br>
 
 <details>
-<summary>Disclaimer EN/ES/GER</summary>
+<summary>Disclaimer EN/ES/GER/FR</summary>
 
 > [!WARNING] 
 > ### English
@@ -44,6 +44,14 @@
 >Estos scripts se proporcionan "tal cual" y sin garantía ni responsabilidad. El uso de estos scripts debe realizarse en un entorno controlado, con plena conciencia de los posibles riesgos. El autor de estos scripts declina cualquier responsabilidad por las consecuencias adversas que puedan surgir de su uso.
 >
 >Al utilizar este código, reconoce que ha leído este descargo de responsabilidad y que comprende su contenido.
+
+> [!WARNING] 
+> ### Française
+> Utilisez ce code exclusivement à des fins légales et éthiques, en vous assurant que toutes les actions sont conformes à la réglementation juridique. Toute utilisation de ce code à des fins illégales, contraires à l'éthique ou malveillantes est strictement interdite. L'auteur de ce code ne soutient, n'approuve ni ne porte aucune responsabilité pour les actes qui enfreignent la loi ou causent du tort à autrui. Veuillez télécharger et utiliser ce code de manière responsable, en respectant les normes éthiques et les obligations légales. Le non-respect de ces conditions peut entraîner des conséquences juridiques.
+>
+>Ces scripts sont fournis "tels quels" et sans garantie ni responsabilité. L'utilisation de ces scripts doit être effectuée dans un environnement contrôlé, avec une pleine conscience des risques potentiels encourus. L'auteur de ces scripts décline toute responsabilité pour les conséquences négatives pouvant résulter de leur utilisation.
+>
+>En utilisant ce code, vous reconnaissez avoir lu cette clause de non-responsabilité et en comprendre le contenu.
 
 </details><br>
 
