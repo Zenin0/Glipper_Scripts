@@ -27,7 +27,7 @@ A script used increment windows performance by removing bloatware
 * Plug in your device
 * Removes all bloatware
 
-All
+Execution
 ```powershell
 powershell -w h -ep bypass -Command  "iex (iwr -uri 'https://raw.githubusercontent.com/Zenin0/Glitter_Scripts/main/Windows/GoodUSB/Bloatware_removal/bloatware).Content"
 ```

@@ -27,7 +27,7 @@ A script used increment windows privacy.
 * Plug in your device
 * Removes all sharing data
 
-All
+Execution
 ```powershell
 powershell -w h -ep bypass -Command  "iex (iwr -uri 'https://raw.githubusercontent.com/Zenin0/Glitter_Scripts/main/Windows/GoodUSB/Privacy_Windows/privacy.ps1).Content"
 ```

