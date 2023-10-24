@@ -24,6 +24,7 @@
 |System|Category|Name|
 |:--:|:--:|:--:|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Good USB|[Increment Windows Privacy](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/GoodUSB/Privacy_Windows)
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Good USB|[Activate Windows](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/GoodUSB/Activate_Windows)
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Good USB|[Remove Windows Bloatware](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/GoodUSB/Bloatware_removal)
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Exfiltrate|[Exfiltrate WiFi Windows Passwords](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Exfilaration/WWifiPasswords)
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Exfiltrate|[Exfiltrate Browser Data](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Exfilaration/BrowserData)

