@@ -30,7 +30,7 @@
 >
 > By using this code, you acknowledge that you have read this disclaimer and understand its contents.ims any responsibility for any adverse consequences that may arise from their use.
 
-</details>
+</details><br>
 
 
 ## Payloads
