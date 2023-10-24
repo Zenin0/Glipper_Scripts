@@ -21,101 +21,26 @@
 
 ## Payloads
 
+|System|Category|Name|
+|:--:|:--:|:--:|
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Good USB|[Increment Windows Privacy](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/GoodUSB/Privacy_Windows)
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Good USB|[Activate Windows](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/GoodUSB/Activate_Windows)
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Good USB|[Remove Windows Bloatware](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/GoodUSB/Bloatware_removal)
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Exfiltrate|[Exfiltrate WiFi Windows Passwords](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Exfilaration/WWifiPasswords)
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Exfiltrate|[Exfiltrate Browser Data](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Exfilaration/BrowserData)
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Exfiltrate|[Exfiltrate Browser Cookies](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Exfilaration/ExportCookiesBrowsers)
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Exfiltrate|[Exfiltrate Browser Passwords](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Exfilaration/SendPasswords)
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Close All Apps](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Executions/CloseAllApps)
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Change the password of the Windows user](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Executions/Change_the_password_of_the_windows_user)
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Delete 32](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Exfilaration/Delete32)
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Delete browsers](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Executions/SendPasswords)
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Disable Defender](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Executions/DisableDefender)
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Disable Firewall](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Executions/DisableFirewall)
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Invisible Download exe](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Executions/Invisible_DownExec)
+|![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Credentials|[Exfiltrate Email And Password By Phising](https://github.com/Zenin0/Glipper_Scripts/tree/main/Linux/Exfiltration/ExfiltrateEmailAndPasswordByPhising)
+|![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Credentials|[Exfiltrate Sudo Password By Phishing](https://github.com/Zenin0/Glipper_Scripts/tree/main/Linux/Exfiltration/ExfiltrateSudoPasswordByPhising)
+|![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Execution|[Encrypt All Documents](https://github.com/Zenin0/Glipper_Scripts/tree/main/Linux/Execution/EncryptAllDocuments_Linux)
 
-<div style="text-align: center;">
-  <table>
-    <tr>
-      <th>System</th>
-      <th>Category</th>
-      <th>Name</th>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></td>
-      <td>Good USB</td>
-      <td><a href="https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/GoodUSB/Privacy_Windows">Increment Windows Privacy</a></td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></td>
-      <td>Good USB</td>
-      <td><a href="https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/GoodUSB/Activate_Windows">Activate Windows</a></td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></td>
-      <td>Good USB</td>
-      <td><a href="https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/GoodUSB/Remove_Windows_Bloatware">Remove Windows Bloatware</a></td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></td>
-      <td>Exfiltrate</td>
-      <td><a href="https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Exfilaration/Exfiltrate_WiFi_Windows_Passwords">Exfiltrate WiFi Windows Passwords</a></td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></td>
-      <td>Exfiltrate</td>
-      <td><a href="https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Exfilaration/Exfiltrate_Browser_Data">Exfiltrate Browser Data</a></td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></td>
-      <td>Exfiltrate</td>
-      <td><a href="https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Exfilaration/Exfiltrate_Browser_Cookies">Exfiltrate Browser Cookies</a></td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></td>
-      <td>Exfiltrate</td>
-      <td><a href="https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Exfilaration/Exfiltrate_Browser_Passwords">Exfiltrate Browser Passwords</a></td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></td>
-      <td>Execution</td>
-      <td><a href="https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Executions/Close_All_Apps">Close All Apps</a></td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></td>
-      <td>Execution</td>
-      <td><a href="https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Executions/Change_the_password_of_the_Windows_user">Change the password of the Windows user</a></td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></td>
-      <td>Execution</td>
-      <td><a href="https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Executions/Delete_32">Delete 32</a></td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></td>
-      <td>Execution</td>
-      <td><a href="https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Executions/Delete_Browsers">Delete Browsers</a></td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></td>
-      <td>Execution</td>
-      <td><a href="https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Executions/Disable_Defender">Disable Defender</a></td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></td>
-      <td>Execution</td>
-      <td><a href="https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Executions/Disable_Firewall">Disable Firewall</a></td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></td>
-      <td>Execution</td>
-      <td><a href="https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Executions/Invisible_Download_Exec">Invisible Download Exec</a></td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></td>
-      <td>Credentials</td>
-      <td><a href="https://github.com/Zenin0/Glipper_Scripts/tree/main/Linux/Exfiltration/Exfiltrate_Email_And_Password_By_Phishing">Exfiltrate Email and Password By Phishing</a></td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></td>
-      <td>Credentials</td>
-      <td><a href="https://github.com/Zenin0/Glipper_Scripts/tree/main/Linux/Exfiltration/Exfiltrate_Sudo_Password_By_Phishing">Exfiltrate Sudo Password By Phishing</a></td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></td>
-      <td>Execution</td>
-      <td><a href="https://github.com/Zenin0/Glipper_Scripts/tree/main/Linux/Execution/Encrypt_All_Documents">Encrypt All Documents</a></td>
-    </tr>
-  </table>
-</div>
 
 
 ## Payloads Explanation
