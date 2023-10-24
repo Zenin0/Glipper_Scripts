@@ -39,6 +39,7 @@
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Invisible Download exe](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Executions/Invisible_DownExec)
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Credentials|[Exfiltrate Email And Password By Phising](https://github.com/Zenin0/Glipper_Scripts/tree/main/Linux/Exfiltration/ExfiltrateEmailAndPasswordByPhising)
 |![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Credentials|[Exfiltrate Sudo Password By Phishing](https://github.com/Zenin0/Glipper_Scripts/tree/main/Linux/Exfiltration/ExfiltrateSudoPasswordByPhising)
+|![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|Execution|[Encrypt All Documents](https://github.com/Zenin0/Glipper_Scripts/tree/main/Linux/Execution/EncryptAllDocuments_Linux)
 
 
 
