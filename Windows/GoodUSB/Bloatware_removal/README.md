@@ -14,7 +14,7 @@ A script used increment windows performance by removing bloatware.
 
 ## Description
 
-A script used increment windows performance by removing bloatwar
+A script used increment windows performance by removing bloatware
 
 ## Getting Started
 
