@@ -98,6 +98,18 @@ GUI - Win/Command, Special Key for OS
   </a>
 </p>
 
+- ## [UberGuidoZ](https://github.com/UberGuidoZ/Flipper-IRDB/tree/main)
+  
+  A reposotoru of Flipper-IRDB
+
+<p align="center">
+  <a href="https://github.com/UberGuidoZ/Flipper-IRDB/tree/main">
+    <img src="https://user-images.githubusercontent.com/71837281/262451680-45975652-d443-4fc1-9fdf-e931ffd20c5d.jpg" alt="UberGuidoZ Image" style="width: 40em;">
+  </a>
+</p>
+
+
+
 
 ## Zenin Software License
 
