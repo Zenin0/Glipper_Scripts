@@ -77,18 +77,20 @@ Also, this software is made without any support from Flipper Devices and is in n
 
 Some script don't work very well, so making them by myself
 
-<a href="https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb">
-  <img src="https://raw.githubusercontent.com/aleff-github/my-flipper-shits/main/img/logo-repository-2_0.gif" alt="UNC0V3R3D Image" style="width: 40em;">
-</a>
-
+<p align="center">
+  <a href="https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb">
+    <img src="https://raw.githubusercontent.com/aleff-github/my-flipper-shits/main/img/logo-repository-2_0.gif" alt="UNC0V3R3D Image" style="width: 40em;">
+  </a>
+</p>
 
 - ## [UNC0V3R3D](https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb)
 
 
-<a href="https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb">
-  <img src="https://github.com/UNC0V3R3D/ressources/raw/main/badusbpicnew.png" alt="UNC0V3R3D Image" style="width: 40em;">
-</a>
-
+<p align="center">
+  <a href="https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb">
+    <img src="https://github.com/UNC0V3R3D/ressources/raw/main/badusbpicnew.png" alt="UNC0V3R3D Image" style="width: 40em;">
+  </a>
+</p>
 
 
 ## Zenin Software License
