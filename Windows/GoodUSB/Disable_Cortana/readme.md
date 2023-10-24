@@ -26,8 +26,3 @@ A script used disable Cortana
 * Plug in your device
 * Disable Cortana
 
-Execution
-```powershell
-powershell -w h -ep bypass -Command  "iex (iwr -uri 'https://raw.githubusercontent.com/Zenin0/Glitter_Scripts/main/Windows/GoodUSB/Disable_Cortana/disable_cortana.ps1).Content"
-```
-
