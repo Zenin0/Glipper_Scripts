@@ -23,13 +23,14 @@
 
 |System|Category|Name|
 |--|--|--|
-|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Credentials|[Exfiltrate WiFi Windows Passwords](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Credentials/WWifiPasswords)
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Exfiltrate|[Exfiltrate WiFi Windows Passwords](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Exfilaration/WWifiPasswords)
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Close All Apps](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Executions/CloseAllApps)
-|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Credentials|[Change the password of the Windows user](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Executions/Change_the_password_of_the_windows_user)
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Change the password of the Windows user](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Executions/Change_the_password_of_the_windows_user)
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Exfiltrate|[Exfiltrate Browser Data](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Exfilaration/BrowserData)
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Exfiltrate|[Exfiltrate Browser Cookies](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Exfilaration/ExportCookiesBrowsers)
-|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Delete 32](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Executions/Delete32)
-|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Delete browsers](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Executions/DeleteBrowsers)
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Exfiltrate|[Exfiltrate Browser Cookies](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Exfilaration/ExportCookiesBrowsers)
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Delete 32](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Exfilaration/Delete32)
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Delete browsers](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Executions/SendPasswords)
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Disable Defender](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Executions/DisableDefender)
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Disable Firewall](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Executions/DisableFirewall)
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Execution|[Invisible Download exe](https://github.com/Zenin0/Glipper_Scripts/tree/main/Windows/Executions/Invisible_DownExec)

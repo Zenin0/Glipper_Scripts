@@ -3,8 +3,8 @@ REM #                                                         |
 REM # Title        : Exfiltrate Windows WiFi Passwords        |
 REM # Author       : Zenin                                    |
 REM # Version      : 1.0                                      |
-REM # Category     : Credentials, Exfiltrate                    |
-REM # Target       : Windows                                    |
+REM # Category     : Credentials, Exfiltrate                  |
+REM # Target       : Windows                                  |
 REM #                                                         |
 REM ###########################################################
 
