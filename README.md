@@ -109,3 +109,7 @@ GUI - Win/Command, Special Key for OS
     <img src="https://user-images.githubusercontent.com/10697207/186202043-26947e28-b1cc-459a-8f20-ffcc7fc0c71c.png" alt="UNC0V3R3D Image" style="width: 40em;">
   </a>
 </p>
+
+It is an expensive little gadget. A rubber case and a screen protector are a must. You will most likely carry it in your pocket with your keys, etc. and you don't want to scratch it. Maybe consider a wriststrap too if you like them.
+
+Other than that, it comes down to what you want to use the flipper for. SubGHz? Get a cc1101 and a decent antenna. Wi-Fi? Get an esp32 and run Marauder on it. IR? Get an IR Blaster from Rabbit-Labs or make one yourself using a IR Flashlight.
