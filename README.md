@@ -110,11 +110,10 @@ GUI - Win/Command, Special Key for OS
   </a>
 </p>
 
-It is an expensive little gadget. A rubber case and a screen protector are a must. You will most likely carry it in your pocket with your keys, etc. and you don't want to scratch it. Maybe consider a wriststrap too if you like them.
+|Usage|Link|
+|:--:|:--:|
+|SubGhz|[cc1101 decent antenna.](https://github.com/quen0n/flipperzero-ext-cc1101)|
+|Wi-Fi|[esp32 and run Marauder](https://github.com/justcallmekoko/ESP32Marauder/wiki/flipper-zero)|
+|IR|[IR Blaster from Rabbit-Labs](https://www.tindie.com/products/tehrabbitt/flipper-zero-ir-blaster/)|
+|IR|[make one yourself using a IR Flashlight.](https://www.reddit.com/r/flipperzero/s/jugaS0pP9R)
 
-Other than that, it comes down to what you want to use the flipper for. SubGHz? 
-[Get a cc1101 and a decent antenna.](https://github.com/quen0n/flipperzero-ext-cc1101)
-Wi-Fi? [Get an esp32 and run Marauder on it.](https://github.com/justcallmekoko/ESP32Marauder/wiki/flipper-zero)
-IR? [Get an IR Blaster from Rabbit-Labs](https://www.tindie.com/products/tehrabbitt/flipper-zero-ir-blaster/)
-or 
-[make one yourself using a IR Flashlight.](https://www.reddit.com/r/flipperzero/s/jugaS0pP9R)
