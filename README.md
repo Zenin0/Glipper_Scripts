@@ -109,3 +109,11 @@ GUI - Win/Command, Special Key for OS
     <img src="https://user-images.githubusercontent.com/10697207/186202043-26947e28-b1cc-459a-8f20-ffcc7fc0c71c.png" alt="UNC0V3R3D Image" style="width: 40em;">
   </a>
 </p>
+
+|Usage|Link|
+|:--:|:--:|
+|SubGhz|[cc1101 decent antenna.](https://github.com/quen0n/flipperzero-ext-cc1101)|
+|Wi-Fi|[esp32 and run Marauder](https://github.com/justcallmekoko/ESP32Marauder/wiki/flipper-zero)|
+|IR|[IR Blaster from Rabbit-Labs](https://www.tindie.com/products/tehrabbitt/flipper-zero-ir-blaster/)|
+|IR|[make one yourself using a IR Flashlight.](https://www.reddit.com/r/flipperzero/s/jugaS0pP9R)
+
