@@ -22,7 +22,6 @@ function voiceLogger {
     Add-Type -AssemblyName System.Speech
     $recognizer = New-Object System.Speech.Recognition.SpeechRecognitionEngine
     $grammar = New-Object System.Speech.Recognition.DictationGrammar
-    $grammar.Language = 'es-ES'  # Set the language code for Spanish (Spain)
     $recognizer.LoadGrammar($grammar)
     $recognizer.SetInputToDefaultAudioDevice()
     $recognizer.RecognizeWithAlternates = $false  # Disable recognition with alternates
