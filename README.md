@@ -6,34 +6,26 @@
   - [Payloads Explanation](#payloads-explanation)
   - [Extras](#extras)
 
-
-
 ### Disclaimer
-
 
 <div align=center>
   <img src="/main/img/logo-repository-2_0.gif" width="600" /><br>
   <img src="/main/img/DISCLAIMER.png" width="600" />
 </div><br>
 
-<details>
-<summary>Disclaimer EN/ES/GER/FR</summary>
-
 > [!WARNING] 
 > # English
 > Use this code exclusively for lawful and ethical purposes, ensuring all actions align with legal regulations. Any employment of this code for illegal, unethical, or malicious activities is strictly prohibited. 
-> The author of this code does not support, endorse, or bear any responsibility for actions that breach the law or inflict harm upon others. Please download and employ this code responsibly, adhering to ethical standards and legal mandates. Non-compliance may result in legal consequences.
->
-> These scripts are provided 'as is' and without warranty or liability. The use of these scripts should be done in a controlled environment, with full awareness of the potential risks involved. The author of these scripts disclaims any responsibility for any adverse consequences that may arise from their use.
->
+> The author of this code does not support, endorse, or bear any responsibility for actions that breach the law or inflict harm upon others. Please download and employ this code responsibly, adhering to ethical standards and legal mandates. Non-> compliance may result in legal consequences.
+> These scripts are provided 'as is' and without warranty or liability. The use of these scripts should be done in a controlled environment, with full awareness of the potential risks involved. The author of these scripts disclaims any > responsibility for any adverse consequences that may arise from their use.
 > By using this code, you acknowledge that you have read this disclaimer and understand its contents.ims any responsibility for any adverse consequences that may arise from their use.
 
 > [!WARNING] 
 > # Deutsch
-> Verwenden Sie diesen Code ausschließlich für rechtmäßige und ethische Zwecke und stellen Sie sicher, dass alle Aktionen den gesetzlichen Bestimmungen entsprechen. Jede Verwendung dieses Codes für illegale, unethische oder böswillige Zwecke ist strengstens verboten. Der Autor dieses Codes unterstützt, befürwortet oder übernimmt keine Verantwortung für Handlungen, die gegen das Gesetz verstoßen oder anderen Schaden zufügen. Bitte laden Sie diesen Code herunter und verwenden Sie ihn verantwortungsvoll, unter Einhaltung der ethischen Standards und gesetzlichen Vorschriften. Bei Nichteinhaltung kann es zu rechtlichen Konsequenzen kommen.
-> 
-> Diese Skripte werden "wie besehen" und ohne Gewährleistung oder Haftung bereitgestellt. Die Verwendung dieser Skripte sollte in einer kontrollierten Umgebung erfolgen, in vollem Bewusstsein der potenziellen Risiken. Der Autor dieser Skripte lehnt jede Verantwortung für negative Folgen ab, die aus ihrer Verwendung entstehen können.
->
+> Verwenden Sie diesen Code ausschließlich für rechtmäßige und ethische Zwecke und stellen Sie sicher, dass alle Aktionen den gesetzlichen Bestimmungen entsprechen. Jede Verwendung dieses Codes für illegale, unethische oder böswillige Zwecke ist > strengstens verboten. Der Autor dieses Codes unterstützt, befürwortet oder übernimmt keine Verantwortung für Handlungen, die gegen das Gesetz verstoßen oder anderen Schaden zufügen. Bitte laden Sie diesen Code herunter und verwenden Sie ihn 
+> verantwortungsvoll, unter Einhaltung der ethischen Standards und gesetzlichen Vorschriften. Bei Nichteinhaltung kann es zu rechtlichen Konsequenzen kommen.
+> Diese Skripte werden "wie besehen" und ohne Gewährleistung oder Haftung bereitgestellt. Die Verwendung dieser Skripte sollte in einer kontrollierten Umgebung erfolgen, in vollem Bewusstsein der potenziellen Risiken. Der Autor dieser Skripte 
+> lehnt jede Verantwortung für negative Folgen ab, die aus ihrer Verwendung entstehen können.
 > Durch die Verwendung dieses Codes erkennen Sie an, dass Sie diesen Haftungsausschluss gelesen und verstanden haben.
 
 > [!WARNING] 
@@ -51,8 +43,6 @@
 >Ces scripts sont fournis "tels quels" et sans garantie ni responsabilité. L'utilisation de ces scripts doit être effectuée dans un environnement contrôlé, avec une pleine conscience des risques potentiels encourus. L'auteur de ces scripts décline toute responsabilité pour les conséquences négatives pouvant résulter de leur utilisation.
 >
 >En utilisant ce code, vous reconnaissez avoir lu cette clause de non-responsabilité et en comprendre le contenu.
-
-</details><br>
 
 
 ## Payloads
